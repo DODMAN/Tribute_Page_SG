@@ -1,0 +1,28 @@
+body {
+  margin: 10px 10px 10px 10px;
+}
+
+.backGround {
+  background-color: #F75959;
+  border-radius: 5px;
+}
+
+.headerTribute {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom:10px;
+  font-type: Times, sans-serif;
+  border-radius: 5px;
+}
+
+.imgScreen {
+  text-align: center;
+  background-color: #FFFFFF;
+  padding-top: 10px;
+}
+
+.factsSG {
+  padding: 5px 100px 5px 100px;
+  background-color: #A0A0A0;
+  color: #FFFFFF;
+}
